@@ -1,18 +1,32 @@
-# 💫 About Me:
-I'm currently working on JavaScript<br>I'm honing my skills in Real World Projects<br>
+<h1 align="center">Hi 👋, I'm DevilQueenLove</h1>
+<h3 align="center">A Underdog in Coding</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devilqueenlove&label=Profile%20views&color=0e75b6&style=flat" alt="devilqueenlove" /> </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsamazingharsh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devharsh007) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Devilqueenlove) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/devilqueenlove07) 
+- 🔭 I’m currently learining **JavaScript**
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=devilqueenlove&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=devilqueenlove&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devilqueenlove&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+- 🌱 I’m currently wokring on **myself**
 
----
-[![](https://visitcount.itsvg.in/api?id=devilqueenlove&icon=0&color=3)](https://visitcount.itsvg.in)
+- 👯 I have decided to **make my life as a Programmer**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🤝 I’m looking for **New Repositories to help**
+
+- 👨‍💻 All of my projects are available at [nowhere](nowhere)
+
+- 📝 I regularly write articles on [https://medium.com/@har.dev](https://medium.com/@har.dev)
+
+- 📫 How to reach me **devilqueenlove007@gmail.com**
+
+- 📄 Know about my experiences [No Experience](No Experience)
+
+- ⚡ Fun fact **I think I am a Geek who doesn't deserve to be a Coder ;)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/devharsh007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devharsh007" height="30" width="40" /></a>
+<a href="https://instagram.com/theamazingharsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theamazingharsh" height="30" width="40" /></a>
+<a href="https://medium.com/@har.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@har.dev" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
